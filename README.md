@@ -9,13 +9,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=km-mesh&show_icons=true)
-![Top Languages](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=km-mesh&layout=compact&theme=radical)
-
----
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
