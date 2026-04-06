@@ -11,8 +11,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=km-mesh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=km-mesh&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api?username=km-mesh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.tuhidulhossain.com/api/top-langs/?username=km-mesh&layout=compact&theme=radical)
 
 ---
 
