@@ -13,10 +13,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                21954 commits       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-🌆 Daytime                59546 commits       ██████████████░░░░░░░░░░░   56.04 % 
-🌃 Evening                23018 commits       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-🌙 Night                  1743 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+🌞 Morning                22535 commits       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+🌆 Daytime                61198 commits       ██████████████░░░░░░░░░░░   56.05 % 
+🌃 Evening                23659 commits       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+🌙 Night                  1793 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
@@ -26,24 +26,24 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   15 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   36.39 % 
-TypeScript               14 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   33.90 % 
-Other                    11 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-TOML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+TypeScript               17 hrs 6 mins       ███████████░░░░░░░░░░░░░░   43.29 % 
+Python                   12 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   31.70 % 
+Other                    9 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Gherkin                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 23 mins      ████████████████░░░░░░░░░   64.39 % 
-Claude Code              10 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-Unknown Editor           4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+VS Code                  24 hrs 57 mins      ████████████████░░░░░░░░░   63.18 % 
+Claude Code              8 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Unknown Editor           6 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 
 🐱‍💻 Projects: 
-mesh                     37 hrs 26 mins      ██████████████████████░░░   88.04 % 
-vibe_mesh                5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+mesh                     35 hrs 7 mins       ██████████████████████░░░   88.90 % 
+vibe_mesh                4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      42 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      39 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
