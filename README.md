@@ -13,10 +13,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                27327 commits       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-🌆 Daytime                73980 commits       ██████████████░░░░░░░░░░░   55.88 % 
-🌃 Evening                28910 commits       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-🌙 Night                  2162 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+🌞 Morning                27638 commits       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+🌆 Daytime                74841 commits       ██████████████░░░░░░░░░░░   55.89 % 
+🌃 Evening                29254 commits       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+🌙 Night                  2185 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
 
@@ -26,25 +26,25 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   19 hrs 38 mins      ████████████░░░░░░░░░░░░░   46.85 % 
-TypeScript               12 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   30.24 % 
-Other                    7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Markdown                 41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-HTML                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Python                   19 hrs 16 mins      ████████████░░░░░░░░░░░░░   49.55 % 
+TypeScript               12 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   32.45 % 
+Other                    5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Markdown                 41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+HTML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 20 mins      ████████████████░░░░░░░░░   65.22 % 
-Unknown Editor           8 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Claude Code              6 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+VS Code                  29 hrs 15 mins      ███████████████████░░░░░░   75.21 % 
+Unknown Editor           5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Claude Code              4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 
 🐱‍💻 Projects: 
-mesh                     41 hrs 44 mins      █████████████████████████   99.56 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-vibe_mesh                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+mesh                     38 hrs 42 mins      █████████████████████████   99.53 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+vibe_mesh                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 treehouse                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      41 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
