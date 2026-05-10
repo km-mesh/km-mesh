@@ -26,24 +26,22 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   13 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   40.32 % 
-TypeScript               12 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   39.75 % 
-Other                    5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript               11 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   41.59 % 
+Python                   11 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   41.56 % 
+Other                    4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 10 mins      ██████████████████████░░░   86.72 % 
-Unknown Editor           2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Claude Code              2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+VS Code                  23 hrs 12 mins      █████████████████████░░░░   85.88 % 
+Unknown Editor           2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Claude Code              1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🐱‍💻 Projects: 
-mesh                     31 hrs 51 mins      █████████████████████████   98.05 % 
-treehouse                31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+mesh                     27 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      32 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
