@@ -10,40 +10,6 @@
 ---
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                32313 commits       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-🌆 Daytime                87570 commits       ██████████████░░░░░░░░░░░   55.89 % 
-🌃 Evening                34254 commits       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-🌙 Night                  2541 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-Python                   12 hrs 27 mins      ████████████░░░░░░░░░░░░░   46.61 % 
-TypeScript               9 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.51 % 
-Other                    4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-
-🔥 Editors: 
-VS Code                  21 hrs 44 mins      ████████████████████░░░░░   81.37 % 
-Unknown Editor           2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Claude Code              2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-
-🐱‍💻 Projects: 
-mesh                     26 hrs 42 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      26 hrs 42 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
