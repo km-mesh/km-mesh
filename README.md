@@ -26,24 +26,24 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               18 hrs              ██████████████░░░░░░░░░░░   54.34 % 
-Python                   12 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   37.54 % 
-Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Bash                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+TypeScript               17 hrs 43 mins      ████████████░░░░░░░░░░░░░   49.72 % 
+Python                   14 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   40.21 % 
+Other                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 11 mins      ████████████████░░░░░░░░░   63.94 % 
-Claude Code              11 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   35.79 % 
-OpenCode                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+VS Code                  24 hrs 1 min        █████████████████░░░░░░░░   67.40 % 
+Claude Code              11 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   32.18 % 
+OpenCode                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-mesh                     30 hrs 16 mins      ███████████████████████░░   91.33 % 
-vibe_mesh                2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+mesh                     31 hrs 36 mins      ██████████████████████░░░   88.64 % 
+vibe_mesh                4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 
 💻 Operating System: 
-Mac                      33 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      35 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
