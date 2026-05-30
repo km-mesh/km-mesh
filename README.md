@@ -10,11 +10,48 @@
 ---
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                40674 commits       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+🌆 Daytime                109368 commits      ██████████████░░░░░░░░░░░   55.77 % 
+🌃 Evening                42693 commits       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+🌙 Night                  3373 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Python                   13 hrs 30 mins      ████████████░░░░░░░░░░░░░   47.05 % 
+TypeScript               11 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   40.54 % 
+Bash                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+CSV                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+
+🔥 Editors: 
+VS Code                  20 hrs 37 mins      ██████████████████░░░░░░░   71.84 % 
+Claude Code              7 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Unknown Editor           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Cursor                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+
+🐱‍💻 Projects: 
+mesh                     26 hrs 9 mins       ███████████████████████░░   91.13 % 
+vibe_mesh                2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+
+💻 Operating System: 
+Mac                      28 hrs 42 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ████████████████████░░░░░   80.00 % 
-TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   5 repos             █████████████████████░░░░   83.33 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
