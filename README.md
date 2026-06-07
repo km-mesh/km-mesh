@@ -26,26 +26,26 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   21 hrs 58 mins      █████████████████░░░░░░░░   66.99 % 
-TypeScript               6 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-SQL                      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Markdown                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-CSV                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Python                   24 hrs              █████████████████░░░░░░░░   66.16 % 
+TypeScript               7 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+SQL                      2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Other                    37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 21 mins      ███████████████████░░░░░░   74.26 % 
-Claude Code              7 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-Cursor                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Claude                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+VS Code                  29 hrs 20 mins      ████████████████████░░░░░   80.86 % 
+Claude Code              5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Cursor                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Claude                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-mesh                     27 hrs 41 mins      █████████████████████░░░░   84.41 % 
-dmo                      2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-vibe_mesh                2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Unknown Project          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+mesh                     32 hrs 53 mins      ███████████████████████░░   90.65 % 
+vibe_mesh                2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Unknown Project          40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+mesh-prototype           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Mac                      32 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
