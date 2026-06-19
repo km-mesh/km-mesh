@@ -26,26 +26,26 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   17 hrs 16 mins      █████████████░░░░░░░░░░░░   51.30 % 
-TypeScript               11 hrs 52 mins      █████████░░░░░░░░░░░░░░░░   35.30 % 
-Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-CSS                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Python                   18 hrs 53 mins      ██████████████░░░░░░░░░░░   55.69 % 
+TypeScript               9 hrs               ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+Markdown                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 48 mins      ██████████████░░░░░░░░░░░   55.86 % 
-Claude Code              14 hrs 30 mins      ███████████░░░░░░░░░░░░░░   43.09 % 
-Claude                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+VS Code                  20 hrs 19 mins      ███████████████░░░░░░░░░░   59.91 % 
+Claude Code              13 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   39.79 % 
+Claude                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-mesh                     29 hrs 5 mins       ██████████████████████░░░   86.44 % 
-vibe_mesh                4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-mesh-prototype           32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+mesh                     28 hrs 34 mins      █████████████████████░░░░   84.24 % 
+vibe_mesh                4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+mesh-prototype           32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 vibe_mesh-issue-2003     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 vibe_mesh-issue-2014     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      33 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
