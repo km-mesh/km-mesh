@@ -10,13 +10,13 @@
 ---
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                51436 commits       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-🌆 Daytime                135611 commits      ██████████████░░░░░░░░░░░   55.62 % 
-🌃 Evening                52557 commits       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-🌙 Night                  4197 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+🌞 Morning                9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+🌆 Daytime                13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+🌃 Evening                38 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  16 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 ```
 
 
@@ -26,33 +26,33 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               13 hrs 22 mins      █████████████░░░░░░░░░░░░   51.01 % 
-Python                   8 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.90 % 
-JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               16 hrs 38 mins      █████████████░░░░░░░░░░░░   53.35 % 
+Python                   8 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+Markdown                 2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 8 mins       █████████████████░░░░░░░░   69.14 % 
-VS Code                  7 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.68 % 
-Opencode Cli             36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Cursor                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Claude Code              22 hrs 22 mins      ██████████████████░░░░░░░   71.72 % 
+VS Code                  7 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+Opencode Cli             36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Cursor                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🐱‍💻 Projects: 
-mesh                     11 hrs 54 mins      ███████████░░░░░░░░░░░░░░   45.41 % 
-vibe_mesh                11 hrs 33 mins      ███████████░░░░░░░░░░░░░░   44.04 % 
-mesh-prototype           2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+vibe_mesh                17 hrs 57 mins      ██████████████░░░░░░░░░░░   57.60 % 
+mesh                     10 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   33.52 % 
+mesh-prototype           2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 
 💻 Operating System: 
-Mac                      26 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ██████████████████░░░░░░░   71.43 % 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   4 repos             █████████████████░░░░░░░░   66.67 % 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
